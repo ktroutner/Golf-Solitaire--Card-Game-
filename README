@@ -1,0 +1,4 @@
+Source code is located in Golf.pde and Card.pde
+A Java version can be found in applet/Golf.java (*note that this code requires Processing libraries in order to compile and run, e.g. Processing in Java)
+
+Runnable applications can be found in the Applications folder.  The game is available for Windows, MacOS, and Linux, in the corresponding subfolders.
