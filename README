@@ -1,3 +1,5 @@
+An implementation of Golf Solitaire written in Processing.
+
 Source code is located in Golf.pde and Card.pde
 A Java version can be found in applet/Golf.java (*note that this code requires Processing libraries in order to compile and run, e.g. Processing in Java)
 
